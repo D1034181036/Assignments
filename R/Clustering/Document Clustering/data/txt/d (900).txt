@@ -1,0 +1,14 @@
+This paper makes two contributions. The first is STUN¡X
+Scalable Tracking Using Networked Sensors¡Xa scalable
+tracking architecture that employs hierarchical structure to
+allow the system to handle a large number of tracked objects.
+The design of this architecture is the topic of Section II.
+Our second contribution is DAB (drain-and-balance)¡Xa
+method to construct STUN¡¦s hierarchical structure based on
+expected properties of the object movement patterns such as
+the frequency of object movements over a region. Utilizing
+these properties permits it to build hierarchies which are more
+efficient than those constructed without. The DAB method is
+described in Section III. We demonstrate the benefits of DAB
+in Section IV by applying it to 1D and 2D sensor network
+topologies.
