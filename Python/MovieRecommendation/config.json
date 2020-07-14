@@ -1,0 +1,7 @@
+{
+	"DB_HOST":"localhost",
+	"DB_USER":"root",
+	"DB_PASSWORD":"a2453",
+	"DB_TABLE":"movie",
+	"PYTHON_PATH":"C:/python3.7.1/python.exe"
+}
